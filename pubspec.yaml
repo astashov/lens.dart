@@ -1,0 +1,5 @@
+name: lens
+version: 0.1.0
+description: Uber simple functional lenses builder in Dart
+author: Anton Astashov <anton.astashov@gmail.com>
+homepage: https://github.com/astashov/lens.dart
